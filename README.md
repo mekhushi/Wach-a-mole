@@ -1,25 +1,9 @@
-# Wach-a-mole
-This is a fun, interactive browser-based game where players use their mouse or finger (on touch devices) to hit moles that randomly pop up from holes on the screen. The objective is to hit as many moles as possible within the time limit to score points!
+# [WHAC A MOLE](https://youtu.be/ej8SatOj3V4)
+- Coding Tutorial: https://youtu.be/ej8SatOj3V4
+- Demo: https://imkennyyip.github.io/whac-a-mole/
 
-# Features ✨
-Interactive Gameplay: Moles pop up randomly at different intervals, keeping the gameplay challenging.
-Timer: Play against the clock and try to set a new high score.
-Dynamic Difficulty: The game speeds up as you progress, making it more challenging.
-Score Counter: Tracks your performance in real-time.
-Responsive Design: Works on both desktop and mobile devices.
-Audio Effects: Enjoy fun sound effects when hitting moles!
-# Tech Stack ⚙️
-HTML/CSS: For structure and styling.
-JavaScript: Core logic for game mechanics, animation, and interactions.
-Canvas API: For smooth animations and responsive design.
-# How to Play 🎮
-Start the game by clicking the "Start" button.
-Moles will pop up at random holes. Quickly click or tap on them to "whack" them!
-Each successful whack gives you points.
-Try to hit as many moles as possible before the time runs out.
-Can you beat your high score?
-# Installation 🛠️
-Clone this repository:
-git clone https://github.com/username/whac-a-mole.git
-Open the index.html file in your browser.
-Start playing!
+In this tutorial, you will learn to create the whac a mole game with html, css, and javascript. Specifically, you will learn how to code the game using html5 canvas. 
+
+While creating this mario themed whac-a-mole game, you will learn how to use javascript to set the game board by editing dom elements, add click handlers to whack the mole, and randomly spawn the mole and piranha plant.
+
+![whac-a-mole-sample](https://user-images.githubusercontent.com/78777681/221445356-31d1e159-9e71-43cb-8d38-a6988b81051d.png)
