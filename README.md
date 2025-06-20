@@ -25,4 +25,4 @@ git clone https://github.com/mekhushi/whac-a-mole.git
 Open the index.html file in your browser.
 Start playing!
 Contributions 🤝
-Feel free to contribute! Whether it's improving the game mechanics, adding new features, or fixing bugs, all contributions are welcome. Please open an issue or submit a pull request.
+Feel free to contribute! Whether it's improving the game mechanics, adding new features, or fixing bugs, all contributions are welcome. Please open an issue or submit a pull request
